@@ -1,0 +1,39 @@
+# Dependencies
+markdown:            kramdown
+highlighter:         rouge
+
+# Gems (for Jekyll 3.0)
+gems: [jekyll-paginate]
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Blog
+tagline:             'Ideas worth spreading'
+description:         'We Are Anonymous'
+url:                 https://github.com/pengfeifan
+baseurl:             /
+paginate:            7
+
+# About/contact
+author:
+  name:              PengfeiFan
+  url:               https://pengfeifan.github.io/
+  email:             pengfei.fan@hotmail.com
+
+# Custom vars
+version:             2.0
+
+# Social Media
+github:				https://github.com/pengfeifan
+#twitter:			http://twitter.com/pengfeifan
+#disqus:             testnaringu
+
+# Theme Author 
+theme:
+  creator:			WilliamFan
+  codename:			Blog
+  link:             https://github.com/pengfeifan
