@@ -13,7 +13,7 @@ permalink:           pretty
 # Setup
 title:               Blog
 tagline:             'Ideas worth spreading'
-description:         'We Are Anonymous'
+description:         'PengfeiFan'
 url:                 https://github.com/pengfeifan
 baseurl:             /
 paginate:            7
@@ -29,8 +29,8 @@ version:             2.0
 
 # Social Media
 github:				https://github.com/pengfeifan
-#twitter:			http://twitter.com/pengfeifan
-#disqus:             testnaringu
+twitter:			http://twitter.com/pengfeifan
+disqus:             blog-github-io
 
 # Theme Author 
 theme:
