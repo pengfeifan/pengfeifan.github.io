@@ -8,7 +8,8 @@ gems: [jekyll-paginate]
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+#permalink:           pretty
+permalink:           none
 
 # Setup
 title:               Blog
@@ -20,12 +21,12 @@ paginate:            7
 
 # About/contact
 author:
-  name:              PengfeiFan
+  name:              Pengfei Fan
   url:               https://pengfeifan.github.io/
   email:             pengfei.fan@hotmail.com
 
 # Custom vars
-version:             2.0
+version:             1.0
 
 # Social Media
 github:				https://github.com/pengfeifan
@@ -36,4 +37,4 @@ disqus:             blog-github-io
 theme:
   creator:			WilliamFan
   codename:			Blog
-  link:             https://github.com/pengfeifan
+  link:         https://github.com/pengfeifan
